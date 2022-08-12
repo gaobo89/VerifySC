@@ -1,3 +1,10 @@
+# Personal defined file and folders
+sverify
+output/*
+invariantlearning/*
+
+
+# built-in affix
 # Prerequisites
 *.d
 
