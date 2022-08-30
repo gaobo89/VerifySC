@@ -8,7 +8,7 @@ Verify repo of *sVerify*, *xVerify* and *sOptimize* for smart contracts
 - EVM (version 1.10.21)
 - boost (version 1.68-dev on ubuntu 18.04)
 - c5.0 & svm (exe in invariantlearning)
-  - change **projectdir** to be the directory where this learning locates.
+  - change **projectdir** in config.ini to be the directory where this learning locates.
 
 
 ## Structures
